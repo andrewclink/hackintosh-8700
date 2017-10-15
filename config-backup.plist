@@ -325,7 +325,7 @@
 				<key>Comment</key>
 				<string>t1-10.12-AppleHDA/Realtek ALC...</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				ihnUEQ==
@@ -341,7 +341,7 @@
 				<key>Comment</key>
 				<string>t1-10.9-10.12-AppleHDA/Realtek ALC892</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				ixnUEQ==
@@ -357,7 +357,7 @@
 				<key>Comment</key>
 				<string>t1-AppleHDA/Resources/xml&gt;zml</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				eG1sLnps
