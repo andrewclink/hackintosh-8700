@@ -225,7 +225,7 @@
 				<string>subsystem-id</string>
 				<key>Value</key>
 				<data>
-				WRIAAA==
+				PpIAAA==
 				</data>
 			</dict>
 			<dict>
@@ -247,6 +247,11 @@
 			<string>1</string>
 			<key>ResetHDA</key>
 			<true/>
+		</dict>
+		<key>FakeID</key>
+		<dict>
+			<key>IntelGFX</key>
+			<string>0x3E928086</string>
 		</dict>
 		<key>USB</key>
 		<dict>
@@ -297,7 +302,7 @@
 		<key>NvidiaSingle</key>
 		<false/>
 		<key>ig-platform-id</key>
-		<string>0x59120000</string>
+		<string>0x3E920000</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
