@@ -313,8 +313,6 @@
 		<false/>
 		<key>DellSMBIOSPatch</key>
 		<false/>
-		<key>FakeCPUID</key>
-		<string>0x0906E9</string>
 		<key>KernelCpu</key>
 		<false/>
 		<key>KernelLapic</key>
